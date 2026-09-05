@@ -1,0 +1,19 @@
+NOTICE
+======
+
+灵眸-YOLO 本体以 MIT License 授权（见 LICENSE 文件）。
+
+本仓库包含以下第三方组件，遵循其各自的许可条款：
+
+---------------------------------------------------------------------------
+组件：yolov8n.pt（预训练权重文件）
+来源：https://github.com/ultralytics/ultralytics
+许可：AGPL-3.0 (GNU Affero General Public License v3.0)
+
+说明：yolov8n.pt 为 Ultralytics YOLOv8 官方预训练模型（COCO 80 类），
+      默认以 AGPL-3.0 许可发布。使用时请遵守相应条款，完整许可文本见：
+      https://www.gnu.org/licenses/agpl-3.0.html
+---------------------------------------------------------------------------
+
+本 NOTICE 仅用于明示第三方组件的归属与许可，不影响"灵眸-YOLO"本体
+采用 MIT License 授权。

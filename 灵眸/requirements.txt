@@ -1,0 +1,8 @@
+ultralytics>=8.2.0
+torch
+torchvision
+PySide6>=6.5
+opencv-python
+numpy
+Pillow
+requests

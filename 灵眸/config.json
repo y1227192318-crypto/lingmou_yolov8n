@@ -1,0 +1,18 @@
+{
+  "conf_threshold": 0.44,
+  "save_path": "",
+  "save_format": "jpg",
+  "dark_mode": false,
+  "auto_conf": 0.45,
+  "auto_stable": 6,
+  "auto_cool": 3,
+  "auto_img_enabled": false,
+  "auto_img_conf": 0.5,
+  "lang": "zh",
+  "ai": {
+    "enabled": false,
+    "api_key": "输入你的API_key",
+    "base_url": "",
+    "model": "deepseek-v4-flash"
+  }
+}
